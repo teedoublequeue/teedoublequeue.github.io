@@ -51,3 +51,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  categories:
+    output: true
+    permalink: /:collection/:name/
