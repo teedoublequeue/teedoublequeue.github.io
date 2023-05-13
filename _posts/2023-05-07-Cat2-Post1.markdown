@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Post 1"
-date:   2023-05-07
-categories: category2
----
-
-This is an equation: $1*1=2$.
